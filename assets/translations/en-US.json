@@ -1,0 +1,34 @@
+{
+  "my_list_title": "Day By Day Counter",
+  "my_list_empty": "Please create an item.",
+  "my_list_row_title": "Today's Count : {count}",
+
+  "add_item_title": "Add Item",
+  "add_item_sub_title": "Enter a title for the item you want to add.",
+  "add_item_input_hint": "Please enter a item title.",
+  "add_item_add_btn": "Add",
+  "add_item_cautions_title": "warning!",
+  "add_item_cautions_content": "Please enter a item title!",
+
+  "detail_item_title": "Detail Item",
+  "detail_item_count_unit": "{count}",
+  "detail_item_sub_title": "Today",
+  "detail_item_total_section_count_title": "Until Now",
+  "detail_item_total_section_count_content": "{count} in progress",
+  "detail_item_total_section_day_avg_title": "Daily avg. (Except today)",
+  "detail_item_total_section_day_avg_content": "{count}",
+  "detail_item_add_time": "time",
+
+  "detail_item_delete_title": "Delete",
+  "detail_item_delete_content": "Are you sure you want to delete this item?",
+  "detail_item_delete_comp_title": "Deletion success",
+  "detail_item_delete_comp_content": "The item has been deleted.",
+  "detail_item_delete_yes": "yes",
+  "detail_item_delete_no": "no",
+
+  "setting_title": "Setting",
+  "setting_row_cautions_title": "Cautions",
+  "setting_row_cautions_content": "All of this app's data is stored in app data on your device.\n Therefore, all data will be deleted when you delete the app.",
+  "setting_row_version_title": "Version"
+
+}

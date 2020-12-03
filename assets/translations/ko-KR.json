@@ -1,0 +1,34 @@
+{
+  "my_list_title": "Day By Day Counter",
+  "my_list_empty": "항목을 생성해주세요.",
+  "my_list_row_title": "오늘의 횟수 : {count}",
+
+  "add_item_title": "항목 추가",
+  "add_item_sub_title": "추가 할 항목의 제목을 입력해주세요.",
+  "add_item_input_hint": "제목을 입력하세요.",
+  "add_item_add_btn": "추가하기",
+  "add_item_cautions_title": "잠깐만요!",
+  "add_item_cautions_content": "제목을 입력해주세요!",
+
+  "detail_item_title": "항목 상세",
+  "detail_item_count_unit": "{count}회",
+  "detail_item_sub_title": "오늘은",
+  "detail_item_total_section_count_title": "지금까지",
+  "detail_item_total_section_count_content": "{count}회 진행중",
+  "detail_item_total_section_day_avg_title": "일별평균 (오늘제외)",
+  "detail_item_total_section_day_avg_content": "{count}회",
+  "detail_item_add_time": "시간",
+
+  "detail_item_delete_title": "삭제",
+  "detail_item_delete_content": "해당항목을 삭제하시겠습니까?",
+  "detail_item_delete_comp_title": "삭제성공",
+  "detail_item_delete_comp_content": "해당항목을 삭제했습니다.",
+  "detail_item_delete_yes": "네",
+  "detail_item_delete_no": "아니요",
+
+  "setting_title": "설정",
+  "setting_row_cautions_title": "주의사항",
+  "setting_row_cautions_content": "이 앱의 데이터는 모두 사용자의 디바이스의 앱 데이터에 저장됩니다.\n 따라서 앱 삭제시 데이터가 모두 삭제됩니다.",
+  "setting_row_version_title": "버전정보"
+
+}
